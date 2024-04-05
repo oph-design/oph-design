@@ -3,7 +3,7 @@
 <p>Here's a little Overview:</p>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/oph-design/dslr">dslr/a>
+- 🔭 I’m currently working on <a href="https://github.com/oph-design/dslr">dslr</a>
 - 🌱 I’m currently learning theory of regressions (linear and logistical)
 - ⭐️ My favourite project was <a href="https://github.com/oph-design/miniRT">miniRT</a>
 - 📬 you can contact me here: ole.paul.heinzelmann@gmail.com 
